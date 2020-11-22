@@ -3,7 +3,16 @@ entries:
   nginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-11-22T18:38:37.290944+08:00"
+    created: "2020-11-22T18:45:14.622848+08:00"
+    description: A Helm chart for Kubernetes
+    digest: add8af784780b59193b58b0417bd61b23d31aebb3288c77db4e39020bf4b54d2
+    name: nginx
+    urls:
+    - nginx-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-11-22T18:45:14.621815+08:00"
     description: A Helm chart for Kubernetes
     digest: 2830e30aa3fe4049ea7746fd50e6dbd42773aeb73171347ad2f4b2820451287d
     name: nginx
@@ -12,11 +21,11 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-11-22T18:38:37.290247+08:00"
+    created: "2020-11-22T18:45:14.621475+08:00"
     description: A Helm chart for Kubernetes
     digest: 542bd2ca8fffe5afaed6328e497473ac5e189bc8ac987595c27866f1d8b6a837
     name: nginx
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2020-11-22T18:38:37.288982+08:00"
+generated: "2020-11-22T18:45:14.620874+08:00"
