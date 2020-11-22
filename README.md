@@ -1,6 +1,6 @@
 # gitops
 
-1. helm repo add --username <USERNAME> --password <TOKEN> appaegis-dev https://raw.githubusercontent.com/appaegis/dev-helm-charts/main
+1. helm repo add --username <USERNAME> --password <TOKEN> gitops https://raw.githubusercontent.com/chenchihchiang/gitops/main
 
 2. helm package nginx
 
